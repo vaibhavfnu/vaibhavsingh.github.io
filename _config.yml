@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vaibhav"
-  avatar           : "Vaibhav_photo.jpeg"
+  avatar           : https://vaibhavfnu.github.io/images/Vaibhav_photo.jpeg
   bio              : "Your biography for the left-hand sidebar"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
