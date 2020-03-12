@@ -1,7 +1,7 @@
 ---
 title: "RFID Tattoo: A Wireless Platform for Speech Recognition"
 collection: publications
-permalink: /publication/RFID Tattoo
+permalink: /publication/RFID_Tattoo
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
 venue: 'UbiComp 2020'
