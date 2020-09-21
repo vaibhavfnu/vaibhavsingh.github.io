@@ -11,4 +11,4 @@ authors: 'Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
 ---
 Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe (Best Paper Honorable Mention)
 
-[Download paper here](http://vaibhavsingh96.github.io/files/osprey-mobisys20.pdf)
+[Download paper here]('http://vaibhavsingh96.github.io/files/osprey-mobisys20.pdf')
