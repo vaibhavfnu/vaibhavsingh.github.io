@@ -10,5 +10,5 @@ pubtype: 'conference'
 authors: 'Vaibhav Singh, Susnata Mondal, Akshay Gadre, Milind Srivastava, Jeyanandh Paramesh, Swarun Kumar'
 ---
 Vaibhav Singh, Susnata Mondal, Akshay Gadre, Milind Srivastava, Jeyanandh Paramesh, Swarun Kumar
-[Download paper here](http://vaibhavsingh96.github.io/files/mmfd-mobicom2020.pdf)
+
 
