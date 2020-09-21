@@ -7,8 +7,7 @@ venue: 'ACM MobiCom'
 pdf: 'files/mmfd-mobicom2020.pdf'
 pubtype: 'conference'
 authors: 'Vaibhav Singh, Susnata Mondal, Akshay Gadre, Milind Srivastava, Jeyanandh Paramesh, Swarun Kumar'
-excerpt: 'Vaibhav Singh, Susnata Mondal, Akshay Gadre, Milind Srivastava, Jeyanandh Paramesh, Swarun Kumar'
 excerpt_seperator: ""
 ---
-
+Vaibhav Singh, Susnata Mondal, Akshay Gadre, Milind Srivastava, Jeyanandh Paramesh, Swarun Kumar
 
