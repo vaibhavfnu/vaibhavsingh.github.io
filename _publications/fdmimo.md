@@ -1,5 +1,5 @@
 ---
-title: "Full Duplex Radios : Are We There Yet?"
+title: "Full Duplex Radios : Are we there yet?"
 collection: publications
 permalink: /publication/fdmimo/
 date: 2020-09-20 01:00:00 +0500
