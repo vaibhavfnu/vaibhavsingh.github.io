@@ -11,4 +11,3 @@ authors: 'Jingxian Wang, Chengfeng Pan, Haojian Jin, Vaibhav Singh, Yash Jain, J
 ---
 Jingxian Wang, Chengfeng Pan, Haojian Jin, Vaibhav Singh, Yash Jain, Jason Hong, Carmel Majidi, Swarun Kumar **(Best Wearables Long Paper Award)**
 
-[Download paper here]('http://vaibhavsingh96.github.io/files/rftattoo-ubicomp2020.pdf')
