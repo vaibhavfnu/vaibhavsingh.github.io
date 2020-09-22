@@ -9,6 +9,6 @@ pubtype: 'poster'
 paperurl: 'http://vaibhavsingh96.github.io/files/osprey-demo-mobisys20.pdf'
 authors: 'Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
 ---
-Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe **(Best Demo)**
+Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe **(Best Demo Award)**
 
 [Download paper here]('http://vaibhavsingh96.github.io/files/osprey-demo-mobisys20.pdf')
