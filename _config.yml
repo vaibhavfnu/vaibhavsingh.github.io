@@ -175,6 +175,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  Resume:
+    output: true
+    permalink: /:collection/:path/
 
 
 
