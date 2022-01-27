@@ -175,7 +175,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Resume:
+  resume:
     output: true
     permalink: /:collection/:path/
 
@@ -202,7 +202,7 @@ defaults:
       # _publications
   - scope:
       path: ""
-      type: Resume
+      type: resume
     values:
       layout: single
       author_profile: true
