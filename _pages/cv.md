@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[Download CV here](http://vaibhavsingh96.github.io/files/Vaibhav_CV.pdf)
 {% include base_path %}
 
 Education
