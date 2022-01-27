@@ -175,9 +175,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  resume:
-    output: true
-    permalink: /:collection/:path/
 
 
 
@@ -200,14 +197,6 @@ defaults:
       # share: true
       # comments: true
       # _publications
-  - scope:
-      path: ""
-      type: resume
-    values:
-      layout: single
-      author_profile: true
-      # share: true
-      # comments: true
 
 
 
