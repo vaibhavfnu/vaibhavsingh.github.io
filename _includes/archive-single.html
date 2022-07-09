@@ -60,7 +60,7 @@
           {% endif %}
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
           {% if post.award%}
-          <br /><span style="color: green"><i>{{post.award}}</i></span>
+          <span style="font-weight: bold; color: green"><i>{{post.award}}</i></span>
           {% endif %}
         {% endif %}
 
