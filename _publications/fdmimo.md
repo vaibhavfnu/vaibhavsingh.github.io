@@ -7,6 +7,6 @@ venue: 'ACM HotNets'
 pdf: 'files/FDradios-hotnets2020.pdf'
 paperurl: 'http://vaibhavsingh96.github.io/files/FDradios-hotnets2020.pdf'
 pubtype: 'poster'
-authors: 'Vaibhav Singh^*, Akshay Gadre^*, Swarun Kumar'
+authors: 'Vaibhav Singh*, Akshay Gadre*, Swarun Kumar'
 ---
 
