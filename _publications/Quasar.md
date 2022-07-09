@@ -8,5 +8,5 @@ pdf: '/files/mmfd-mobicom2020.pdf'
 paperurl: 'http://vaibhavsingh96.github.io/files/quasar-mobicom2021.pdf'
 pubtype: 'conference'
 authors: 'Vaibhav Singh, Akarsh Prabhakara, Diana Zhang, Osman Yagan, Swarun Kumar'
-award: ACM GetMobile Magazine Research Highlight 2022'
+award: 'ACM GetMobile Magazine Research Highlight 2022'
 ---
