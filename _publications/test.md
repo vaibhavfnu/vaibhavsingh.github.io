@@ -5,6 +5,7 @@ permalink: /publication/test/
 date: 2022-01-01
 venue: 'PS: Political Science & Politics'
 pdf: 'files/selfiestick-ipsn2022.pdf'
+pubtype: 'conference'
 paperurl: 'https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf'
 link: '[https://doi.org/10.1017/S1049096521001153](https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf)'
 citation: 'Vaibhav Singh, Swarun Kumar
