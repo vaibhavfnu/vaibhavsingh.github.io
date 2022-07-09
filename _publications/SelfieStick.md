@@ -8,6 +8,8 @@ pdf: 'files/selfiestick-ipsn2022.pdf'
 paperurl: 'https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf'
 pubtype: 'conference'
 authors: 'Vaibhav Singh, Osman Yagan, Swarun Kumar'
+
+this is a testament to your competency
 ---
 Vaibhav Singh, Osman Yagan, Swarun Kumar **(Best Paper Award)**
 
