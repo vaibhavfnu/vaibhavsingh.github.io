@@ -9,6 +9,3 @@ paperurl: 'http://vaibhavsingh96.github.io/files/quasar-mobicom2021.pdf'
 pubtype: 'conference'
 authors: 'Vaibhav Singh, Akarsh Prabhakara, Diana Zhang, Osman Yagan, Swarun Kumar'
 ---
-Vaibhav Singh, Akarsh Prabhakara, Diana Zhang, Osman Yagan, Swarun Kumar
-
-[Download paper here](http://vaibhavsingh96.github.io/files/quasar-mobicom2021.pdf)
