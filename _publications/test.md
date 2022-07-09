@@ -2,11 +2,26 @@
 title: "Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden"
 collection: publications
 permalink: /publication/test/
-date: 2022-01-01
+date: 2022-01-01 01:00:00 +0500
 venue: 'PS: Political Science & Politics'
 pdf: 'files/selfiestick-ipsn2022.pdf'
 pubtype: 'conference'
 paperurl: 'https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf'
-link: '[https://doi.org/10.1017/S1049096521001153](https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf)'
-citation: 'Vaibhav Singh, Swarun Kumar
+link: 'https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf'
+citation: 'Vaibhav Singh, Swarun Kumar'
 ---
+<!-- 
+---
+title: "SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites"
+collection: publications
+permalink: /publication/SelfieStick/
+date: 2022-5-04 01:00:00 +0500
+venue: 'IPSN'
+pdf: 'files/selfiestick-ipsn2022.pdf'
+paperurl: 'https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf'
+pubtype: 'conference'
+authors: 'Vaibhav Singh, Osman Yagan, Swarun Kumar'
+---
+Vaibhav Singh, Osman Yagan, Swarun Kumar **(Best Paper Award)**
+
+[Download paper here](http://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf) -->
