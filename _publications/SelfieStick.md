@@ -9,6 +9,6 @@ paperurl: 'https://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf'
 pubtype: 'conference'
 authors: 'Vaibhav Singh, Osman Yagan, Swarun Kumar'
 ---
-Vaibhav Singh, Osman Yagan, Swarun Kumar **(Best Paper Honorable Mention Award)**
+Vaibhav Singh, Osman Yagan, Swarun Kumar **(Best Paper Award)**
 
 [Download paper here](http://vaibhavsingh96.github.io/files/selfiestick-ipsn2022.pdf)
