@@ -9,6 +9,3 @@ paperurl: 'http://vaibhavsingh96.github.io/files/OwLL-ipsn2021.pdf'
 pubtype: 'conference'
 authors: 'Atul Bansal, Akshay Gadre, Vaibhav Singh, Anthony Rowe, Bob Iannucci, Swarun Kumar'
 ---
-Atul Bansal, Akshay Gadre, Vaibhav Singh, Anthony Rowe, Bob Iannucci, Swarun Kumar
-
-[Download paper here](http://vaibhavsingh96.github.io/files/OwLL-ipsn2021.pdf)
