@@ -7,4 +7,3 @@ venue: 'Small Satellite Conference'
 pubtype: 'conference'
 authors: 'Emily Ruppel, Brad Denby, Vaibhav Singh, Shize Che, Chad Taylor, Fayyaz Zaidi, Swarun Kumar, Brandon Lucia'
 ---
-Emily Ruppel, Brad Denby, Vaibhav Singh, Shize Che, Chad Taylor, Fayyaz Zaidi, Swarun Kumar, Brandon Lucia
